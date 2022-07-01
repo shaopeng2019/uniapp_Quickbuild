@@ -1,0 +1,12 @@
+{
+  "name": "uniapp_Quickbuild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fan",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vue-i18n": "^8.24.4",
+    "uview-ui": "2.0.31"
+  }
+}
